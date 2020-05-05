@@ -1,1 +1,2 @@
-# i3-i3blocks
+### i3-i3blocks config
+
